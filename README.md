@@ -10,6 +10,10 @@ I look foward to sharing my work with you. You lcan view [my portfolio here](htt
 
 ## About Me
 
+[Twitter](https://twitter.com/ladydaytripper)
+[LinkedIn](https://www.linkedin.com/in/diane-cam-riffel-atl/)
+[GitHub](https://github.com/dcamriff)
+
 **Student** As a Web Development Immersive student of General Assembly, I have enjoyed my journey into a new career. My current work and repos on GitHub can be found [here](https://github.com/dcamriff).
 
 **Entrepreneur** Prior to becoming a student again, I co-founded [Octane Coffee Company](http://www.octanecoffee.com/) in Atlanta, Georgia and operated it alongside my husband for 14 years, from 2003 to 2017. We grew our partnership in 2010, expanded to six cafes and two roasting facilities, and then we were presented with an opportunity to sell our business in 2017.
