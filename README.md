@@ -4,7 +4,7 @@
 
 Hello there! I’m **Diane Riffel**, a web developer student at General Assembly - Atlanta.
 
-I look foward to sharing my work with you. You lcan view [my portfolio here](https://github.com/dcamriff/portfolio)
+I look foward to sharing my work with you. You lcan view [my portfolio here](http://driffel-portfolio-84c341.bitballoon.com/)
 
 
 
